@@ -1,5 +1,5 @@
 #Check the following youtube video: https://www.youtube.com/watch?v=Xpx--7g6FKk
-#Best tuto, it worked without problems
+#Best tuto, it worked without problems. I recommend it.
 
 import pandas as pd
 from apiclient.discovery import build
